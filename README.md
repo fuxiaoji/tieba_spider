@@ -74,9 +74,8 @@ python3 tieba_app.py
 
 ## 界面长啥样
 
-<p align="right">
-  <img src="https://picsum.photos/seed/gui/600/400?grayscale" width="80%">
-</p>
+ ![1776592857690](images/README/1776592857690.png)
+
 
 这个界面没用任何垃圾组件库。
 纯手搓 PyQt6 表格与样式。
