@@ -51,8 +51,7 @@
 
 ## 怎么折腾？
 
-别问我啥是云端部署。
-你有 Python 环境对吧？
+**openclaw技能：https://clawhub.ai/fuxiaoji/tieba-spider
 
 **第一步：上依赖**
 
