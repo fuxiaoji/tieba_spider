@@ -51,7 +51,8 @@
 
 ## 怎么折腾？
 
-**openclaw技能：https://clawhub.ai/fuxiaoji/tieba-spider
+**openclaw技能：https://clawhub.ai/fuxiaoji/tieba-spider**
+**网页直接用：https://www.fuwenji.asia/tieba-spider.html**
 
 **第一步：上依赖**
 
